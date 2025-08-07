@@ -1,6 +1,6 @@
 # lat.ax
 
-- **LATEX pillows or mattresses, or cd...?**
+- **LATEX pillows or mattresses, or polyurethane cd...?**
 
 ## Secondary
 - Cosmetics?
