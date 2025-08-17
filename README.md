@@ -1,6 +1,7 @@
 # lat.ax
 
 ## Primary
+- **Pleasure toys / CDs**
 - **LATEX pillows or mattresses, or polyurethane cd?**
 
 ## Secondary
